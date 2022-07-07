@@ -1,0 +1,28 @@
+body {
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+header, main {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    align-self: center;
+    font-size: 3rem;
+}
+
+button {
+    background-color:paleturquoise;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    width: 200px;
+    font-size: 2rem;
+    cursor: pointer;
+}
